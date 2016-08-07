@@ -6,7 +6,7 @@ The tutorial serves as a purpose for me to learn the workings of the canvas and 
 ## Tutorial Result
 ![](https://i.imgur.com/NDz3GnO.png)
 
-Have a look [here](https://bramlobbens.github.io/spaceinvaders/)
+Have a look [here](https://bramlobbens.github.io/JSSpaceInvaders/spaceinvaders_tut/)
 
 > move = arrow keys
 
@@ -24,5 +24,7 @@ Have a look [here](https://bramlobbens.github.io/spaceinvaders/)
 * No interface
 
 ## Own Result
+
+Have a look [here](https://bramlobbens.github.io/JSSpaceInvaders/)
 ### Features
 *to come*
